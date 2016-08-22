@@ -20,3 +20,7 @@ Still under development, a skeleton app using data about planets of the solar sy
 ### Having problems installing?
 
 * If the angular components won't install try upgrading NPM: sudo npm install -g npm
+
+Note: some of Angular code is based on the official tutorial at https://angular.io/docs/ts/latest/tutorial/
+
+https://angular.io/license
