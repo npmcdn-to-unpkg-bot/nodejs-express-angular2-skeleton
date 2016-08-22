@@ -13,13 +13,13 @@ Still under development, a skeleton app using data about planets of the solar sy
 
  * Install the application: npm install
 
- * Run the application: node index.js (node bin/www on MacOS)
+ * Run the application: node app.js (node bin/www on MacOS)
 
  * Navigate to http://localhost:3000/ to load the app
 
 ### Having problems installing?
 
-* If the angular components won't install try upgrading NPM: sudo npm install -g npm
+* If the angular components won't install try upgrading NPM: npm install -g npm
 
 Note: some of Angular code is based on the official tutorial at https://angular.io/docs/ts/latest/tutorial/
 
