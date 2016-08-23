@@ -3,9 +3,7 @@ NodeJS, Express and Angular2 skeleton app
 
 ## Overview
 
-Still under development, a skeleton app using data about planets of the solar system.
-
- * NodeJS, Express and Angular2
+Still under development, a skeleton app using some basic sample data about planets of the solar system. The application is written in TypeScript using the latest ECMAScript 6 standards.
 
 ### Usage
 
@@ -32,3 +30,7 @@ If the angular components won't install try upgrading NPM
  ```
  sudo npm install -g npm
  ```
+ 
+ Note: some of Angular code is based on the official tutorial at https://angular.io/docs/ts/latest/tutorial/
+ 
+ MIT license https://angular.io/license
