@@ -13,7 +13,7 @@ Still under development, a skeleton app using data about planets of the solar sy
 
  * Install the application: npm install
 
- * Run the application: node app.js (node bin/www on MacOS)
+ * Run the application: npm start
 
  * Navigate to http://localhost:3000/ to load the app
 
