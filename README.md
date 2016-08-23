@@ -17,7 +17,6 @@ Install the application
  npm install
  ```
 
-
  Run the application
  
  ```
