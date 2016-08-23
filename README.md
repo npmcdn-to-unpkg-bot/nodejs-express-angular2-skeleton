@@ -9,26 +9,26 @@ Still under development, a skeleton app using data about planets of the solar sy
 
 ### Usage
 
- * Clone or download the repository.
+Clone or download the repository.
 
- * Install the application
+Install the application
  
  ```
  npm install
  ```
 
 
- * Run the application
+ Run the application
  
  ```
  npm start
  ```
 
- * Navigate to http://localhost:3000/ to load the app
+Navigate to http://localhost:3000/ to load the app
 
 ### Having problems installing?
 
-* If the angular components won't install try upgrading NPM
+If the angular components won't install try upgrading NPM
 
  ```
  sudo npm install -g npm
