@@ -1,0 +1,10 @@
+<h1>{{title}}</h1>
+<h2>Select a planet</h2>
+<ul class="planets">
+    <li *ngFor="let planet of planets"
+        [class.selected]="planet === selectedPlanet"
+        (click)="onSelect(planet)">
+        <span class="badge">{{planet.id}}</span> {{planet.name}}
+    </li>
+</ul>
+<planet-detail [planet]="selectedPlanet"></planet-detail>
